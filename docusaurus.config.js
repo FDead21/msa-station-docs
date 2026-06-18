@@ -12,10 +12,10 @@ const config = {
   },
 
   url: 'https://FDead21.github.io',
-  baseUrl: '/p2d-control-tower-docs/',
+  baseUrl: '/msa-station-docs/',
 
   organizationName: 'FDead21',
-  projectName: 'p2d-control-tower-docs',
+  projectName: 'msa-station-docs',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -71,7 +71,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/FDead21/p2d-control-tower-docs',
+            href: 'https://github.com/FDead21/msa-station-docs',
             label: 'GitHub',
             position: 'right',
           },
